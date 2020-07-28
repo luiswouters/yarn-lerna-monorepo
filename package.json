@@ -1,0 +1,8 @@
+{
+  "name": "yarn-lerna-workspaces",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:luiswouters/yarn-lerna-monorepo.git",
+  "author": "Luis Wouters <luiswouters@gmail.com>",
+  "license": "MIT"
+}
